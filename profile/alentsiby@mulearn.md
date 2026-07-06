@@ -44,7 +44,7 @@
 - Developed custom security notification systems and assistive technologies designed for community impact.
 
 #### History of Community Engagement:
-- Served on the media team for the SJCET college arts festival in March 2026, managing live telecasts across different stages.
+- Served on the media team for the SJCET college arts festival in March 2026, managing AV on stages.
 - Engaged with local businesses to modernize their infrastructure, including developing a Progressive Web App (PWA) with automated customer tracking for a commercial bakery.
 
 #### Domain Profiles:
@@ -68,11 +68,11 @@
 
 #### History of Leadership:
 - Coordinated technical bootcamps for engineering students.
-- Led the technical execution of live media broadcasts during large-scale college events.
+- Led the technical execution of media during large-scale college events.
 
 #### Career Plan:
 - **Immediate:** Continue refining hardware-software integration projects like K-Kaval and expand knowledge in ethical hacking and system forensics.
-- **Long-term:** Master the intersection of robotics, full-stack development, and cybersecurity to lead engineering teams building advanced, secure, and accessible autonomous systems.
+- **Long-term:** Master the intersection of robotics, Embedded Systems and IoT, and cybersecurity to lead engineering teams building advanced, secure, and accessible autonomous systems.
 
 ---
 
